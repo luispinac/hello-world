@@ -1,5 +1,5 @@
 # hello-world
-Esta es la primera prueba
+Esta es la first prueba
 
 esta es la prueba de finalización
 
